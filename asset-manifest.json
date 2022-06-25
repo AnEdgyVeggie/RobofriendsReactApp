@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RobofriendsReactApp/static/css/main.e5c3cc92.css",
+    "main.js": "/RobofriendsReactApp/static/js/main.13224290.js",
+    "static/js/787.32032a02.chunk.js": "/RobofriendsReactApp/static/js/787.32032a02.chunk.js",
+    "static/media/Raleway.ttf": "/RobofriendsReactApp/static/media/Raleway.3fefe681f4c62116679b.ttf",
+    "index.html": "/RobofriendsReactApp/index.html",
+    "main.e5c3cc92.css.map": "/RobofriendsReactApp/static/css/main.e5c3cc92.css.map",
+    "main.13224290.js.map": "/RobofriendsReactApp/static/js/main.13224290.js.map",
+    "787.32032a02.chunk.js.map": "/RobofriendsReactApp/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5c3cc92.css",
+    "static/js/main.13224290.js"
+  ]
+}
